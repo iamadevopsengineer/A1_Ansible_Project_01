@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1717641009,,"wq"
+|2,0,1717641950,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +25,42 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/user2.pub
-|4,48,2,0,1717641009,"~/user2.pub"
-'1  1  741  ~/user1.pub
-|4,49,1,741,1717640984,"~/user1.pub"
-'2  26  28  ~/input_management.yml
-|4,50,26,28,1717640182,"~/input_management.yml"
-'3  71  0  ~/user_management.yml
-|4,51,71,0,1717640134,"~/user_management.yml"
-'4  3  4  ~/.gitignore
-|4,52,3,4,1717639299,"~/.gitignore"
-'5  12  0  ~/.bashrc
-|4,53,12,0,1717638743,"~/.bashrc"
+'0  3  14  ~/hosts.ini
+|4,48,3,14,1717641950,"~/hosts.ini"
+'1  2  0  ~/user2.pub
+|4,49,2,0,1717641009,"~/user2.pub"
+'2  1  741  ~/user1.pub
+|4,50,1,741,1717640984,"~/user1.pub"
+'3  26  28  ~/input_management.yml
+|4,51,26,28,1717640182,"~/input_management.yml"
+'4  71  0  ~/user_management.yml
+|4,52,71,0,1717640134,"~/user_management.yml"
+'5  3  4  ~/.gitignore
+|4,53,3,4,1717639299,"~/.gitignore"
+'6  12  0  ~/.bashrc
+|4,54,12,0,1717638743,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
 -'  2  0  ~/user2.pub
 |4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
 -'  1  0  ~/user2.pub
 |4,39,1,0,1717640993,"~/user2.pub"
 -'  1  741  ~/user1.pub
 |4,39,1,741,1717640984,"~/user1.pub"
 -'  1  741  ~/user1.pub
 |4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
 -'  26  28  ~/input_management.yml
 |4,39,26,28,1717640182,"~/input_management.yml"
 -'  26  28  ~/input_management.yml
@@ -55,6 +69,22 @@
 |4,39,26,28,1717640182,"~/input_management.yml"
 -'  26  28  ~/input_management.yml
 |4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
 -'  1  0  ~/input_management.yml
 |4,39,1,0,1717640158,"~/input_management.yml"
 -'  1  0  ~/input_management.yml
@@ -79,6 +109,38 @@
 |4,39,71,0,1717640134,"~/user_management.yml"
 -'  71  0  ~/user_management.yml
 |4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  71  0  ~/user_management.yml
+|4,39,71,0,1717640134,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717639753,"~/user_management.yml"
 -'  1  0  ~/user_management.yml
 |4,39,1,0,1717639753,"~/user_management.yml"
 -'  1  0  ~/user_management.yml
@@ -127,6 +189,38 @@
 |4,39,3,4,1717639299,"~/.gitignore"
 -'  3  4  ~/.gitignore
 |4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
+-'  3  4  ~/.gitignore
+|4,39,3,4,1717639299,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1717639274,"~/.gitignore"
 -'  1  0  ~/.gitignore
@@ -147,100 +241,15 @@
 |4,39,1,0,1717639274,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  12  0  ~/.bashrc
-|4,39,12,0,1717638743,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
--'  1  0  ~/.bashrc
-|4,39,1,0,1717638703,"~/.bashrc"
 
 # History of marks within files (newest to oldest):
+
+> ~/hosts.ini
+	*	1717641948	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	3	14
 
 > ~/user2.pub
 	*	1717641008	0

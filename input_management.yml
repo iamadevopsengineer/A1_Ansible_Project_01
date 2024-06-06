@@ -1,0 +1,26 @@
+- hosts: localhost
+  vars:
+    users:
+      - name: user1
+        full_name: User One
+        groups:
+          - group1
+          - group2
+        shell: /bin/bash
+        ssh_key: "{{ lookup('file', 'user1.pub') }}"
+        sudoers_state: present
+        sudoers_password: NOPASSWD
+        state: present
+      - name: user2
+        full_name: User Two
+        groups:
+          - group2
+        shell: /bin/zsh
+        ssh_key: "{{ lookup('file', 'user2.pub') }}"
+        state: present
+      - name: user3
+        state: absent
+  tasks:
+    - name: Include user management playbook
+      include_role:
+        name: user_management

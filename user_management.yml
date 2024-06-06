@@ -1,74 +1,67 @@
+
 - hosts: all
   become: yes
+  tasks:
 
-
-    # Check if user exist
+    # Check if user exists
     - name: Check if user exists
-  getent:
-    database: passwd
-    key: "{{ item.name }}"
-    fail_key: False
-  loop: "{{ users }}"
-  register: user_exists
-
-
+      getent:
+        database: passwd
+        key: "{{ item.name }}"
+        fail_key: False
+      loop: "{{ users }}"
+      register: user_exists
 
     # Create New users
     - name: Create users
-  user:
-    name: "{{ item.item.name }}"
-    uid: "{{ item.item.uid | default(omit) }}"
-    groups: "{{ item.item.groups | default(omit) }}"
-    comment: "{{ item.item.full_name | default(omit) }}"
-    shell: "{{ item.item.shell | default(omit) }}"
-    state: "{{ item.item.state | default('present') }}"
-  loop: "{{ user_exists.results }}"
-  when: item.key is not defined
+      user:
+        name: "{{ item.item.name }}"
+        uid: "{{ item.item.uid | default(omit) }}"
+        groups: "{{ item.item.groups | default(omit) }}"
+        comment: "{{ item.item.full_name | default(omit) }}"
+        shell: "{{ item.item.shell | default(omit) }}"
+        state: "{{ item.item.state | default('present') }}"
+      loop: "{{ user_exists.results }}"
+      when: item.key is not defined
 
     # Add SSH keys
     - name: Add SSH keys
-  authorized_key:
-    user: "{{ item.item.name }}"
-    key: "{{ item.item.ssh_key }}"
-  loop: "{{ user_exists.results }}"
-  when: item.key is not defined and item.item.ssh_key is defined
+      authorized_key:
+        user: "{{ item.item.name }}"
+        key: "{{ item.item.ssh_key }}"
+      loop: "{{ user_exists.results }}"
+      when: item.key is not defined and item.item.ssh_key is defined
 
     # Manage Sudoers File
-     - name: Add users to sudoers file
-  lineinfile:
-    path: /etc/sudoers
-    state: "{{ item.item.sudoers_state | default('present') }}"
-    line: "{{ item.item.name }} ALL=(ALL) {{ item.item.sudoers_password | default('ALL') }}"
-  loop: "{{ user_exists.results }}"
-  when: item.key is not defined and item.item.sudoers_state is defined
-
+    - name: Add users to sudoers file
+      lineinfile:
+        path: /etc/sudoers
+        state: "{{ item.item.sudoers_state | default('present') }}"
+        line: "{{ item.item.name }} ALL=(ALL) {{ item.item.sudoers_password | default('ALL') }}"
+      loop: "{{ user_exists.results }}"
+      when: item.key is not defined and item.item.sudoers_state is defined
 
     # Delete users
     - name: Delete users
-  user:
-    name: "{{ item.item.name }}"
-    state: absent
-    remove: yes
-  loop: "{{ user_exists.results }}"
-  when: item.key is defined and item.item.state == 'absent'
+      user:
+        name: "{{ item.item.name }}"
+        state: absent
+        remove: yes
+      loop: "{{ user_exists.results }}"
+      when: item.key is defined and item.item.state == 'absent'
 
     # Disable users
     - name: Disable users
-  user:
-    name: "{{ item.item.name }}"
-    state: disabled
-  loop: "{{ user_exists.results }}"
-  when: item.key is defined and item.item.state == 'disabled'
+      user:
+        name: "{{ item.item.name }}"
+        state: disabled
+      loop: "{{ user_exists.results }}"
+      when: item.key is defined and item.item.state == 'disabled'
 
     # Change user shell
-   - name: Change user shell
-  user:
-    name: "{{ item.item.name }}"
-    shell: "{{ item.item.new_shell }}"
-  loop: "{{ user_exists.results }}"
-  when: item.key is defined and item.item.new_shell is defined
-
-
-
-
-
+    - name: Change user shell
+      user:
+        name: "{{ item.item.name }}"
+        shell: "{{ item.item.new_shell }}"
+      loop: "{{ user_exists.results }}"
+      when: item.key is defined and item.item.new_shell is defined

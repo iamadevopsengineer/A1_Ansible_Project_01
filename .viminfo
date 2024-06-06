@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1717641950,,"wq"
+|2,0,1717644677,,"wq"
+:q
+|2,0,1717644374,,"q"
 
 # Search String History (newest to oldest):
 
@@ -25,30 +27,80 @@
 # Registers:
 
 # File marks:
-'0  3  14  ~/hosts.ini
-|4,48,3,14,1717641950,"~/hosts.ini"
-'1  2  0  ~/user2.pub
-|4,49,2,0,1717641009,"~/user2.pub"
-'2  1  741  ~/user1.pub
-|4,50,1,741,1717640984,"~/user1.pub"
-'3  26  28  ~/input_management.yml
-|4,51,26,28,1717640182,"~/input_management.yml"
-'4  71  0  ~/user_management.yml
-|4,52,71,0,1717640134,"~/user_management.yml"
-'5  3  4  ~/.gitignore
-|4,53,3,4,1717639299,"~/.gitignore"
-'6  12  0  ~/.bashrc
-|4,54,12,0,1717638743,"~/.bashrc"
+'0  67  65  ~/user_management.yml
+|4,48,67,65,1717644677,"~/user_management.yml"
+'1  1  0  ~/user-management.yml
+|4,49,1,0,1717644374,"~/user-management.yml"
+'2  3  14  ~/hosts.ini
+|4,50,3,14,1717641950,"~/hosts.ini"
+'3  2  0  ~/user2.pub
+|4,51,2,0,1717641009,"~/user2.pub"
+'4  1  741  ~/user1.pub
+|4,52,1,741,1717640984,"~/user1.pub"
+'5  26  28  ~/input_management.yml
+|4,53,26,28,1717640182,"~/input_management.yml"
+'6  1  0  ~/user_management.yml
+|4,54,1,0,1717640134,"~/user_management.yml"
+'7  71  0  ~/user_management.yml
+|4,55,71,0,1717640134,"~/user_management.yml"
+'8  3  4  ~/.gitignore
+|4,56,3,4,1717639299,"~/.gitignore"
+'9  12  0  ~/.bashrc
+|4,57,12,0,1717638743,"~/.bashrc"
 
 # Jumplist (newest first):
+-'  67  65  ~/user_management.yml
+|4,39,67,65,1717644677,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717644491,"~/user_management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
 -'  3  14  ~/hosts.ini
 |4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
 -'  1  0  ~/hosts.ini
 |4,39,1,0,1717641589,"~/hosts.ini"
 -'  2  0  ~/user2.pub
 |4,39,2,0,1717641009,"~/user2.pub"
 -'  2  0  ~/user2.pub
 |4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
 -'  1  0  ~/user2.pub
 |4,39,1,0,1717640993,"~/user2.pub"
 -'  1  0  ~/user2.pub
@@ -61,6 +113,78 @@
 |4,39,1,741,1717640984,"~/user1.pub"
 -'  1  741  ~/user1.pub
 |4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  1  741  ~/user1.pub
+|4,39,1,741,1717640984,"~/user1.pub"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
+-'  26  28  ~/input_management.yml
+|4,39,26,28,1717640182,"~/input_management.yml"
 -'  26  28  ~/input_management.yml
 |4,39,26,28,1717640182,"~/input_management.yml"
 -'  26  28  ~/input_management.yml
@@ -93,156 +217,60 @@
 |4,39,1,0,1717640158,"~/input_management.yml"
 -'  1  0  ~/input_management.yml
 |4,39,1,0,1717640158,"~/input_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  71  0  ~/user_management.yml
-|4,39,71,0,1717640134,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  1  0  ~/user_management.yml
-|4,39,1,0,1717639753,"~/user_management.yml"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  3  4  ~/.gitignore
-|4,39,3,4,1717639299,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
--'  1  0  ~/.gitignore
-|4,39,1,0,1717639274,"~/.gitignore"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/input_management.yml
+|4,39,1,0,1717640158,"~/input_management.yml"
 
 # History of marks within files (newest to oldest):
+
+> ~/user_management.yml
+	*	1717644675	0
+	"	67	65
+	^	67	66
+	.	67	65
+	+	1	25
+	+	1	0
+	+	1	49
+	+	1	21
+	+	1	5
+	+	1	0
+	+	1	5
+	+	1	22
+	+	1	0
+	+	67	65
+
+> ~/user-management.yml
+	*	1717644371	0
+	"	1	0
 
 > ~/hosts.ini
 	*	1717641948	0
@@ -271,21 +299,6 @@
 	^	26	29
 	.	26	28
 	+	26	28
-
-> ~/user_management.yml
-	*	1717640131	0
-	"	71	0
-	^	71	0
-	.	71	0
-	+	2	13
-	+	74	0
-	+	5	24
-	+	16	21
-	+	28	5
-	+	64	0
-	+	36	5
-	+	63	22
-	+	71	0
 
 > ~/.gitignore
 	*	1717639297	0

@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:wq
-|2,0,1717644677,,"wq"
 :q
-|2,0,1717644374,,"q"
+|2,0,1717645913,,"q"
+:wq
+|2,0,1717645909,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -27,36 +27,66 @@
 # Registers:
 
 # File marks:
-'0  67  65  ~/user_management.yml
-|4,48,67,65,1717644677,"~/user_management.yml"
-'1  1  0  ~/user-management.yml
-|4,49,1,0,1717644374,"~/user-management.yml"
-'2  3  14  ~/hosts.ini
-|4,50,3,14,1717641950,"~/hosts.ini"
-'3  2  0  ~/user2.pub
-|4,51,2,0,1717641009,"~/user2.pub"
-'4  1  741  ~/user1.pub
-|4,52,1,741,1717640984,"~/user1.pub"
-'5  26  28  ~/input_management.yml
-|4,53,26,28,1717640182,"~/input_management.yml"
-'6  1  0  ~/user_management.yml
-|4,54,1,0,1717640134,"~/user_management.yml"
-'7  71  0  ~/user_management.yml
-|4,55,71,0,1717640134,"~/user_management.yml"
-'8  3  4  ~/.gitignore
-|4,56,3,4,1717639299,"~/.gitignore"
-'9  12  0  ~/.bashrc
-|4,57,12,0,1717638743,"~/.bashrc"
+'0  1  0  /etc/ansible/ansible.cfg
+|4,48,1,0,1717645913,"/etc/ansible/ansible.cfg"
+'1  1  0  ~/ansible.cfg
+|4,49,1,0,1717645537,"~/ansible.cfg"
+'2  67  65  ~/user_management.yml
+|4,50,67,65,1717644677,"~/user_management.yml"
+'3  1  0  ~/user-management.yml
+|4,51,1,0,1717644374,"~/user-management.yml"
+'4  3  14  ~/hosts.ini
+|4,52,3,14,1717641950,"~/hosts.ini"
+'5  2  0  ~/user2.pub
+|4,53,2,0,1717641009,"~/user2.pub"
+'6  1  741  ~/user1.pub
+|4,54,1,741,1717640984,"~/user1.pub"
+'7  26  28  ~/input_management.yml
+|4,55,26,28,1717640182,"~/input_management.yml"
+'8  1  0  ~/user_management.yml
+|4,56,1,0,1717640134,"~/user_management.yml"
+'9  71  0  ~/user_management.yml
+|4,57,71,0,1717640134,"~/user_management.yml"
 
 # Jumplist (newest first):
+-'  1  0  /etc/ansible/ansible.cfg
+|4,39,1,0,1717645913,"/etc/ansible/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1717645537,"~/ansible.cfg"
+-'  1  0  ~/ansible.cfg
+|4,39,1,0,1717645537,"~/ansible.cfg"
 -'  67  65  ~/user_management.yml
 |4,39,67,65,1717644677,"~/user_management.yml"
+-'  67  65  ~/user_management.yml
+|4,39,67,65,1717644677,"~/user_management.yml"
+-'  67  65  ~/user_management.yml
+|4,39,67,65,1717644677,"~/user_management.yml"
+-'  67  65  ~/user_management.yml
+|4,39,67,65,1717644677,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717644491,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717644491,"~/user_management.yml"
+-'  1  0  ~/user_management.yml
+|4,39,1,0,1717644491,"~/user_management.yml"
 -'  1  0  ~/user_management.yml
 |4,39,1,0,1717644491,"~/user_management.yml"
 -'  1  0  ~/user-management.yml
 |4,39,1,0,1717644374,"~/user-management.yml"
 -'  1  0  ~/user-management.yml
 |4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
+-'  1  0  ~/user-management.yml
+|4,39,1,0,1717644374,"~/user-management.yml"
 -'  3  14  ~/hosts.ini
 |4,39,3,14,1717641950,"~/hosts.ini"
 -'  3  14  ~/hosts.ini
@@ -65,6 +95,54 @@
 |4,39,3,14,1717641950,"~/hosts.ini"
 -'  3  14  ~/hosts.ini
 |4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  3  14  ~/hosts.ini
+|4,39,3,14,1717641950,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
+-'  1  0  ~/hosts.ini
+|4,39,1,0,1717641589,"~/hosts.ini"
 -'  1  0  ~/hosts.ini
 |4,39,1,0,1717641589,"~/hosts.ini"
 -'  1  0  ~/hosts.ini
@@ -89,6 +167,54 @@
 |4,39,2,0,1717641009,"~/user2.pub"
 -'  2  0  ~/user2.pub
 |4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
+-'  2  0  ~/user2.pub
+|4,39,2,0,1717641009,"~/user2.pub"
 -'  1  0  ~/user2.pub
 |4,39,1,0,1717640993,"~/user2.pub"
 -'  1  0  ~/user2.pub
@@ -105,152 +231,34 @@
 |4,39,1,0,1717640993,"~/user2.pub"
 -'  1  0  ~/user2.pub
 |4,39,1,0,1717640993,"~/user2.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  1  741  ~/user1.pub
-|4,39,1,741,1717640984,"~/user1.pub"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  26  28  ~/input_management.yml
-|4,39,26,28,1717640182,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
--'  1  0  ~/input_management.yml
-|4,39,1,0,1717640158,"~/input_management.yml"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
+-'  1  0  ~/user2.pub
+|4,39,1,0,1717640993,"~/user2.pub"
 
 # History of marks within files (newest to oldest):
+
+> /etc/ansible/ansible.cfg
+	*	1717645911	0
+	"	1	0
+
+> ~/ansible.cfg
+	*	1717645536	0
+	"	1	0
 
 > ~/user_management.yml
 	*	1717644675	0
